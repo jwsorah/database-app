@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Contacts App</string>
+    <string name="element_text">100</string>
+    <string-array name="developers">
+        <item>Bethesda</item>
+        <item>Ubisoft</item>
+        <item>Capcom</item>
+        <item>343 Industries</item>
+        <item>Bungie</item>
+        <item>2K</item>
+        <item>4A Games</item>
+        <item>Activision</item>
+        <item>Arc System Works</item>
+        <item>Arkane Studios</item>
+        <item>Aspyr</item>
+        <item>Atlus</item>
+        <item>Bandai Namco</item>
+        <item>From Software</item>
+        <item>BioWare</item>
+        <item>Blizzard</item>
+        <item>Kojima Productions</item>
+        <item>Bohemia Interactive</item>
+        <item>Bugbear Entertainment</item>
+        <item>CD Projekt Red</item>
+        <item>Creative Assembly</item>
+        <item>Crystal Dynamics</item>
+        <item>Crytek</item>
+        <item>EA</item>
+        <item>Epic Games</item>
+        <item>Facepunch Studios</item>
+        <item>Game Freak</item>
+        <item>Gearbox Software</item>
+        <item>GSC Game World</item>
+        <item>Gust</item>
+        <item>Hangar 13</item>
+        <item>id Software</item>
+        <item>Infinity Ward</item>
+        <item>Insomniac Games</item>
+        <item>Eidos Montreal</item>
+        <item>Konami</item>
+        <item>MachineGames</item>
+        <item>Naughty Dog</item>
+        <item>NetherRealm Studios</item>
+        <item>Nintendo</item>
+        <item>Obsidian Entertainment</item>
+        <item>Overkill Software</item>
+        <item>PlatinumGames</item>
+        <item>Quantic Dream</item>
+        <item>Remedy Entertainment</item>
+        <item>Riot Games</item>
+        <item>Rockstar Games</item>
+        <item>SEGA</item>
+        <item>Bend Studio</item>
+        <item>Ryu Ga Gatoku Studio</item>
+    </string-array>
+
+    <string-array name="years">
+        <item>2023</item>
+        <item>2022</item>
+        <item>2021</item>
+        <item>2020</item>
+        <item>2019</item>
+        <item>2018</item>
+        <item>2017</item>
+        <item>2016</item>
+        <item>2015</item>
+        <item>2014</item>
+        <item>2013</item>
+        <item>2012</item>
+        <item>2011</item>
+        <item>2010</item>
+        <item>2009</item>
+        <item>2008</item>
+        <item>2007</item>
+        <item>2006</item>
+        <item>2005</item>
+        <item>2004</item>
+        <item>2003</item>
+        <item>2002</item>
+        <item>2001</item>
+        <item>2000</item>
+    </string-array>
+
+</resources>
